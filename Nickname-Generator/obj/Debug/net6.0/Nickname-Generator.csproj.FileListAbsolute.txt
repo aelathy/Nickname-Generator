@@ -1,0 +1,15 @@
+F:\CS30\Nickname-Generator\bin\Debug\net6.0\Nickname-Generator.exe
+F:\CS30\Nickname-Generator\bin\Debug\net6.0\Nickname-Generator.deps.json
+F:\CS30\Nickname-Generator\bin\Debug\net6.0\Nickname-Generator.runtimeconfig.json
+F:\CS30\Nickname-Generator\bin\Debug\net6.0\Nickname-Generator.dll
+F:\CS30\Nickname-Generator\bin\Debug\net6.0\Nickname-Generator.pdb
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.csproj.AssemblyReference.cache
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.AssemblyInfoInputs.cache
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.AssemblyInfo.cs
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.csproj.CoreCompileInputs.cache
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.dll
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\refint\Nickname-Generator.dll
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.pdb
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\Nickname-Generator.genruntimeconfig.cache
+F:\CS30\Nickname-Generator\obj\Debug\net6.0\ref\Nickname-Generator.dll
